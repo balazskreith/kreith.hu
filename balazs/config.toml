@@ -1,0 +1,77 @@
+## Basic Configuration
+
+baseurl = "http://balazs.kreith.hu"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Balazs Kreith"
+title = "Balazs Kreith"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+disqusShortname = "balazs-kreith-hu" # Comment out to disable Disqus.
+googleAnalytics = "UA-134046221-1"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Balazs Kreith"
+intro = "Software Engineer"
+description = ""
+authorimage = "profile.jpeg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Personal Webpage"
+keywords = "balazskreith,software engineering,real-time multimedia communication,multipe-tau hardware correlators,rtp,specialist,webrtc,data science"
+
+## Social Accounts
+[params.social]
+github = "balazskreith"
+#instagram = "<username>"
+linkedin = "balazskreith"
+#twitter = "<username>"
+facebook = "kreith.balazs"
+#google = "<username>"
+stackoverflow = "2915808"
+email = "balazs@kreith.hu"
+
+## Extras
+[params.extra]
+copyright = "© 2019. Balazs Kreith. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+poweredby = true
+hightlightjs = true
+
+## Main Menu
+# [[menu.main]]
+#     name = "about"
+#     identifier = "about"
+#     weight = 100
+#     url = "/about/"
+[[menu.main]]
+    name = "cv"
+    weight = 200
+    identifier = "cv"
+    url = "/cv/balazs-kreith.pdf"
+[[menu.main]]
+    name = "projects"
+    identifier = "projects"
+    weight = 300
+    url = "/projects/"
+# [[menu.main]]
+#     name = "photography"
+#     identifier = "photography"
+#     weight = 400
+#     url = "/photography/"
+# [[menu.main]]
+#     name = "blog"
+#     identifier = "blog"
+#     weight = 500
+#     url = "/blog/"
