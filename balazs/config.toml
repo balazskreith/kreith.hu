@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "http://balazs.kreith.hu"
+baseurl = "http://www.kreith.hu"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
