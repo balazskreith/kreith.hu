@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "http://www.kreith.hu"
+baseurl = "http://balazs.kreith.hu"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
@@ -9,8 +9,8 @@ contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
 
-author = "Balazs Kreith"
-title = "Balazs Kreith"
+author = "Balázs Kreith"
+title = "Balázs Kreith"
 
 theme = "hugo-goa"
 
@@ -21,7 +21,7 @@ enableRobotsTXT = true
 
 ## Site Settings
 [params]
-author = "Balazs Kreith"
+author = "Balázs Kreith"
 intro = "Software Engineer"
 description = ""
 authorimage = "profile.jpeg"
@@ -45,7 +45,7 @@ email = "balazs@kreith.hu"
 
 ## Extras
 [params.extra]
-copyright = "© 2019. Balazs Kreith. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+copyright = "© 2019. Balázs Kreith. [All Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
 poweredby = true
 hightlightjs = true
 
@@ -59,7 +59,7 @@ hightlightjs = true
     name = "cv"
     weight = 200
     identifier = "cv"
-    url = "/cv/balazs-kreith.pdf"
+    url = "/cv/balazs-kreith-public.pdf"
 [[menu.main]]
     name = "projects"
     identifier = "projects"

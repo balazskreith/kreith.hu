@@ -16,6 +16,7 @@ metric is used to evaluate conferences at callstats.io.
 
 __Blogpost__: [Objective Quality v3](https://www.callstats.io/blog/2018/03/01/product-update-objective-quality-version-3)
 
+
 ## MPRTP plugin for Gstreamer
 
 Multipath extension of Real-Time Protocol (MPRTP) makes real-time multimedia communication
@@ -38,7 +39,7 @@ __Publications and appearances__:
  - [1] [Early announcement](https://www.callstats.io/blog/2016/11/14/fec-congestion-control)
  - [2] [Conference report](https://www.callstats.io/blog/2017/10/16/acm-multimedia)
  - [3] [Conference paper](https://www.researchgate.net/publication/320419511_FRACTaL_FEC-based_Rate_Control_for_RTP)
- - [4] [Congestion control schemes](https://www.callstats.io/blog/2016/11/01/schemes-of-congestion-control) 
+ - [4] [Congestion control schemes](https://www.callstats.io/blog/2016/11/01/schemes-of-congestion-control)
 
 ## Network Traffic Rate Tracker
 

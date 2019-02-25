@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Balazs Kreith</title>
-    <link>http://www.kreith.hu/tags/about/</link>
+    <link>http://balazs.kreith.hu/tags/about/</link>
     <description>Recent content in About on Balazs Kreith</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 12 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.kreith.hu/tags/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://balazs.kreith.hu/tags/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://www.kreith.hu/photos/</link>
+      <link>http://balazs.kreith.hu/photos/</link>
       <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.kreith.hu/photos/</guid>
+      <guid>http://balazs.kreith.hu/photos/</guid>
       <description>As you might figured out, my name is Balazs Kreith and I am a software engineer by profession.</description>
     </item>
     

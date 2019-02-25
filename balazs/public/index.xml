@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Balazs Kreith</title>
-    <link>http://www.kreith.hu/</link>
+    <link>http://balazs.kreith.hu/</link>
     <description>Recent content on Balazs Kreith</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 12 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.kreith.hu/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://balazs.kreith.hu/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://www.kreith.hu/photos/</link>
+      <link>http://balazs.kreith.hu/photos/</link>
       <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.kreith.hu/photos/</guid>
+      <guid>http://balazs.kreith.hu/photos/</guid>
       <description>As you might figured out, my name is Balazs Kreith and I am a software engineer by profession.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://www.kreith.hu/projects/</link>
+      <link>http://balazs.kreith.hu/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.kreith.hu/projects/</guid>
+      <guid>http://balazs.kreith.hu/projects/</guid>
       <description>Objective Quality for WebRTC conferences Objective Quality is an indicator metric of the quality of WebRTC conferences. The metric is used to evaluate conferences at callstats.io.
 Blogpost: Objective Quality v3
 MPRTP plugin for Gstreamer Multipath extension of Real-Time Protocol (MPRTP) makes real-time multimedia communication capable of transferring on multiple path. To realize it a Gstreamer plugin is developed capable of sending and receiving packets on multiple path.
